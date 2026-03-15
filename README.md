@@ -193,12 +193,64 @@ A custom toggle control allows users to **show or hide chart data labels**, redu
 
 ## Key Insights
 
-Some insights identified during the analysis:
+The analysis of 100,000 e-commerce transactions revealed several meaningful patterns related to revenue distribution, product performance, and customer purchasing behavior.
 
-* Certain product categories generate significantly higher revenue than others.
-* Sales trends vary by month, indicating potential seasonal patterns.
-* A small number of products contribute a large share of total revenue.
-* Order size segmentation helps identify purchasing behavior across customers.
+### Revenue Concentration by Product Category
+
+Revenue analysis shows that a small number of product categories contribute a disproportionately large share of total sales. This indicates that business performance is strongly influenced by a few high-performing product segments.
+
+**Implication:**
+Focusing marketing efforts, inventory planning, and pricing optimization on these categories could significantly increase overall revenue.
+
+---
+
+### High Contribution from Top Products
+
+The Top 10 products generate a significant portion of total revenue, highlighting a common retail pattern where a limited number of products drive the majority of sales.
+
+**Implication:**
+Ensuring consistent availability and strategic promotion of these high-performing products can improve revenue stability and customer satisfaction.
+
+---
+
+### Clear Monthly Sales Patterns
+
+Monthly revenue trends reveal noticeable fluctuations in sales performance across different months.
+
+**Implication:**
+These patterns may indicate seasonal demand, promotional cycles, or customer purchasing trends. Businesses can use this information to optimize inventory planning and marketing campaigns during peak demand periods.
+
+---
+
+### Geographic Revenue Distribution
+
+Revenue distribution across countries highlights differences in market performance. Certain regions contribute significantly more revenue than others.
+
+**Implication:**
+High-performing markets represent strong opportunities for expansion and targeted marketing, while lower-performing regions may require additional marketing investment or localized strategies.
+
+---
+
+### Order Value Segmentation
+
+Segmenting orders into low, medium, and high-value groups reveals how different transaction sizes contribute to total revenue.
+
+**Implication:**
+Understanding the distribution of order sizes can help businesses design strategies to increase **Average Order Value (AOV)** through cross-selling, bundles, or promotional incentives.
+
+---
+
+### Overall Business Insight
+
+The analysis suggests that revenue is influenced by a combination of:
+
+* Product demand concentration
+* Seasonal purchasing patterns
+* Geographic market performance
+* Customer purchasing behavior
+
+Interactive dashboard filters allow stakeholders to explore these patterns dynamically across different markets, product categories, and time periods.
+
 
 ---
 
