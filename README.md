@@ -59,27 +59,87 @@ These transformations improved the ability to analyze trends and segment sales d
 
 ## Analysis Performed
 
-The project explores several key business questions:
+The project explores key business questions related to revenue performance, product demand, and sales trends. The analysis focuses on identifying revenue drivers, understanding purchasing behavior, and uncovering patterns that can inform business strategy.
 
-### Revenue by Country
+### 1. Revenue by Country
 
-Identifies which markets generate the highest revenue.
+This analysis examines the geographic distribution of sales to identify the most valuable markets.
 
-### Revenue by Product Category
+**Key questions addressed:**
 
-Shows how revenue is distributed across product categories.
+* Which countries generate the highest revenue?
+* How concentrated are sales across markets?
 
-### Monthly Revenue Trend
+**Purpose:**
+Understanding regional performance helps businesses prioritize high-performing markets and identify opportunities for expansion or targeted marketing efforts.
 
-Tracks revenue changes across months to identify seasonal trends.
+---
 
-### Top 10 Products by Revenue
+### 2. Revenue by Product Category
 
-Highlights the best-performing products.
+Revenue was analyzed across product categories to determine which segments contribute the most to overall business performance.
 
-### Revenue Distribution by Order Segment
+**Key questions addressed:**
 
-Examines how different order sizes contribute to overall revenue.
+* Which product categories drive the majority of revenue?
+* Are sales concentrated in a few categories or evenly distributed?
+
+**Purpose:**
+Category-level insights help businesses allocate resources effectively, optimize product portfolios, and identify underperforming segments.
+
+---
+
+### 3. Monthly Revenue Trend
+
+A time-series analysis was performed to evaluate how revenue changes over time.
+
+**Key questions addressed:**
+
+* Are there seasonal patterns in sales?
+* Which months show the strongest or weakest performance?
+
+**Purpose:**
+Trend analysis enables businesses to anticipate demand fluctuations, improve inventory planning, and design effective promotional campaigns.
+
+---
+
+### 4. Top 10 Products by Revenue
+
+The analysis identifies the products that generate the highest revenue.
+
+**Key questions addressed:**
+
+* Which individual products contribute the most to total sales?
+* Is revenue heavily driven by a small number of products?
+
+**Purpose:**
+Identifying top-performing products allows businesses to focus marketing, optimize pricing strategies, and maintain sufficient inventory for high-demand items.
+
+---
+
+### 5. Revenue Distribution by Order Segment
+
+Orders were segmented based on revenue value to understand purchasing behavior across different transaction sizes.
+
+**Segments:**
+
+* Low Value Orders
+* Medium Value Orders
+* High Value Orders
+
+**Key questions addressed:**
+
+* Which order segments contribute most to total revenue?
+* Do large orders dominate revenue or do smaller transactions accumulate significantly?
+
+**Purpose:**
+Segmenting orders helps businesses understand customer purchasing behavior and design strategies to increase average order value.
+
+---
+
+### Analytical Approach
+
+The analysis was conducted using **Pivot Tables and Pivot Charts in Excel**, enabling rapid aggregation and interactive exploration of the dataset. The use of **slicers and dynamic filters** allows users to analyze revenue patterns across multiple dimensions such as country, category, and month.
 
 ---
 
