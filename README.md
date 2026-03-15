@@ -13,7 +13,7 @@ The dashboard provides a clear view of revenue performance, product demand, and 
 
 ## Dashboard Preview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview][Excel_Dashboard.png]
 
 ---
 
